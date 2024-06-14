@@ -1,0 +1,78 @@
+
+Logic 
+
+GPTLanguageModel
+This is the model class which will train and generate the GPT model.
+This class contains:
+- token embeddings (in a text file this would be characters),
+- positional embeddings which add probability statistics to positions relative to the current.
+- Block which implements self attention
+- Final layernorm layer
+- Final Linear layer
+- Cross_entropy to calculate log loss
+- Softmax to generate samples
+
+Input (idx, targets):
+idx 
+These are the x values or previous values that have already been seen
+For training it is a tensor batch_size*block_size which is sampled randomly from the training data 
+For testing it is a tensor batch_size*block_size which is sampled randomly from the val data (only used to estimate loss)
+
+B, T dimensionality 
+
+Token embeddings:
+Each token maps to a row in the embedding table based on the character they are 
+e.g. A maps to 0. 
+This turns the B, T input into B, T, C shape where C = n_embd
+
+Essentially tok_embd is the initial input but instead of each value corresponding to a 
+single number it corresponds to a tensor
+
+Position embeddings:
+Same logic as token embeddings but instead of taking the input tensors value it instead uses its position to index into an embedding table
+
+Block
+This block computes the self attention
+It calls the block class using sequential, which loops depending on the number of layers specified for the network
+
+Layer norm & Linear
+Final layer norm layer and Linear layer as specified in the paper attention is all you need
+
+Head Class
+Specifies a self attention head
+The logic behind a self attention head is to allow indexes to talk to each other. The further indexes will 
+talk to previous indexes 
+
+e.g 0, 1, 2, 3 - 1 talks to 0 and itself, 2 talks to 0, 1 and itself etc.
+
+The weighting of each of the index it talks to is determined by the key query and value
+
+The query value of each index acts as a question.
+This question is asked to the keys of the other indexes. 
+
+There is a softmax used on the weights after this to make sure only the lower triangular layer is valid
+
+i.e. 
+x 0 0 0
+x x 0 0
+x x x 0
+x x x x
+
+x specifies valid, 0 specifies invalid
+
+so the first index can only talk to itself and so on like specified above
+
+Once this has been calculated the weights are passed through a linear layer called value
+this converts the attention scores into tensors which represent the relationship between 
+parts of the sequence
+
+
+MultiHeadAttention 
+
+This allows the processing of multiple heads of attention at once which is the basis 
+of a transformer. By processing them in parallel the efficiency of the training is vastly improved.
+
+Using multiple heads allows the network to focus on different aspect of the sequence.
+One head might calculate the influence of vowels on other characters, another may 
+contain some common combinations
+

@@ -1,0 +1,929 @@
+10.788929 M parameters
+step 0: train loss 4.2227, val loss 4.2305
+step 500: train loss 1.7602, val loss 1.9165
+step 1000: train loss 1.3960, val loss 1.6120
+step 1500: train loss 1.2677, val loss 1.5290
+step 2000: train loss 1.1895, val loss 1.5106
+step 2500: train loss 1.1263, val loss 1.4963
+step 3000: train loss 1.0698, val loss 1.4893
+step 3500: train loss 1.0181, val loss 1.5071
+step 4000: train loss 0.9663, val loss 1.5184
+step 4500: train loss 0.9122, val loss 1.5599
+step 4999: train loss 0.8586, val loss 1.5774
+
+Thors in the mardial trumpets, let me
+no soon-buis 'Heir absolut's ears,'
+His files and native and mitred
+Sparks mine. Do corn the laws,
+The noble noble danger of men lamentation
+For King Edward's children; and send
+Worthily would throw a banish, as therest they      
+Shall bring the cloud upon our tribunes.
+Therefore close and hearing in the hair of offending
+And shall have scope him pale--opre by come with out
+The full teast of mine at complish, many
+I do receive my soul brother.
+
+WARWICK:
+Gave me t
+
+
+10.788929 M parameters
+step 0: train loss 4.3640, val loss 4.3621
+step 500: train loss 1.9156, val loss 2.0206
+step 1000: train loss 1.5503, val loss 1.7394
+step 1500: train loss 1.3994, val loss 1.6200
+step 2000: train loss 1.3135, val loss 1.5513
+step 2500: train loss 1.2559, val loss 1.5241
+step 3000: train loss 1.2079, val loss 1.5007
+step 3500: train loss 1.1663, val loss 1.4921
+step 4000: train loss 1.1283, val loss 1.4912
+step 4500: train loss 1.0883, val loss 1.4846
+step 4999: train loss 1.0548, val loss 1.4850
+
+All this in your pardonment? what nine? Stand away,
+So one of a day's boy. For his things should by    
+Thy earnest as you manner; I'll speak too do       
+A little and man at you, be satisfied
+Her hand, of one sights: the air in blood
+This neighbour ruled easy accuse. Have mouth'd     
+You note peact, that you may given a dear request  
+Is marger a move, and all one is a mother,--marker;
+As both our fresh; a proportation, and,
+I cannot her her mortallene's thanks, tains.       
+Go steal her; and when thou at else
+Weop,
+
+10.788929 M parameters
+step 0: train loss 4.3832, val loss 4.3804
+step 500: train loss 1.8964, val loss 2.0028
+step 1000: train loss 1.5478, val loss 1.7342
+step 1500: train loss 1.4075, val loss 1.6212
+step 2000: train loss 1.3217, val loss 1.5587
+step 2500: train loss 1.2627, val loss 1.5254
+step 3000: train loss 1.2144, val loss 1.4972
+step 3500: train loss 1.1713, val loss 1.4838
+step 4000: train loss 1.1344, val loss 1.4834
+step 4500: train loss 1.1009, val loss 1.4973
+step 4999: train loss 1.0634, val loss 1.4841
+
+O, the body late did ha pity borrow.
+
+BENVOLIO:
+O deed, help, that repeal'd worthy Maries,
+Armble raised, my loving shows weep, and not thy
+arm uncle Clifford fit your wrongs: of all that I
+But I'll steep what my mother bosom
+Once do the tyranny of thee would counsel
+To what they were from her tongue? have prosed
+Thus ne'er 'Cound of France of a bishop'd with te,
+Confirm'd and his mother, with she friar's foil,
+If ever helms, and over grief hangs in
+Worshelves to be earth; and I'll teach him to
+
+Kaiming Init on all linear 
+10.788929 M parameters
+step 0: train loss 5.1537, val loss 5.1484
+step 500: train loss 2.1614, val loss 2.2129
+step 1000: train loss 1.8199, val loss 1.9622
+step 1500: train loss 1.6347, val loss 1.8113
+step 2000: train loss 1.5267, val loss 1.7293
+step 2500: train loss 1.4429, val loss 1.6606
+step 3000: train loss 1.3853, val loss 1.6210
+step 3500: train loss 1.3407, val loss 1.5838
+step 4000: train loss 1.3010, val loss 1.5560
+step 4500: train loss 1.2661, val loss 1.5401
+step 4999: train loss 1.2355, val loss 1.5260
+
+If but It stuff it show is the people,
+I'll great warland sweet whom I do make him.
+
+LEONTES:
+How!
+
+PAULINA:
+You'll take the easest to complaintest without do the noble
+Pug in the lips of enumies wherein you goes
+oath have bails uponded against
+A treachets to country: but, whether, here comes in my good
+Defend them lips of young to hour, oon boy; leannes        
+Even our recordience on whomselves but be put aspect       
+We do't?
+
+First Citizen:
+Let me be yet battle a carlaim?
+
+JULIET:
+And be no purp, thus treasons upon me,
+We know a day I hope overgo.
+
+ROMEO:
+A gracious bitter sk boar-day.
+
+JULIET:
+But thou on't,--
+
+POLIXENES:
+No; good came your father, Paris.
+
+Second Servingman:
+No, by a the Duke of George; Oxford, by your kind;
+I have safety you king, that I would tell you,
+'Tell you: and then now do do I fly, to a while,
+You before ever all the valiant, and betwixt thee quote
+From that you hear too quickly and you; and turning
+Three them life your honours harted.
+
+LADY ANNE:
+For I can were kissant,
+But you will had as face; let it know you me not of I
+Whom before it ash not to could my heart effice.
+
+LADY ANNE:
+Why, prepared you see
+Farewell. For thou were 'slander, there lists
+I have for it been all succeed of royal kere
+They were in mercy: farewell, we are alone
+And left a citiWn general steeding.
+
+PLIXENES:
+O my lord, he woman! O most struck
+As you will another of thy scozple,
+But report for your robber's sun substic
+Believe yet be for the present did we well.
+
+GLOUCESTER:
+The charges and princess in respure!
+
+KING EDWARD IV:
+Welcome; then known belong awaying that?
+
+BUCKINGHAM:
+Faith, how can the love's foul man:
+Furbids have been then rest to my loving;
+And thou wert news to be; and there thou art worth
+That dung enemies to meet at Great love his leademen,
+To be this world those friends are clouded and young pity
+To drinks his infrightion. I know the vantage,
+This ways he at his mournament, and he hath answer
+thousand aguest out thy hand sorrows.
+
+RICHARD:
+
+ROMEO:
+No, marry!
+
+ESCALUS:
+Now, no, good faith. I have madam.
+Worthy tender eye the kings
+No have been interpeds, look about to any bout one,
+to have lawful reful better honour absent,
+And hath not I'll gentle brother.
+
+AUTOLYCUS:
+Boy, whom you have accourt's king?
+
+First Musician:
+I hope dog toetain,
+Bear with this sister, and he defend
+That you was was your sword.
+
+Clown:
+That's he dress my word doubt; do, my noble lord:
+'
+Advisturne werein to meet not. Fanewell,
+but 'tis should he not be sament as it, whom he have
+as we done known shall before i' the most court.
+
+CORIOLANUS:
+Even what lives boy?
+
+First Senator:
+Not five we know; my lord,
+You go so, you are look'd your brother:'
+Ay, before I did you have not, he made you at him,
+Or By this counto young my father's and daughter
+Yet doubt but the ruin brother.
+
+First Senator:
+Why, what he drawn thou not? look?
+
+First Murderer:
+
+Third Menenius:
+Nor George no, can's head; what's me?
+
+First Servingman:
+Fall, before he hath that addined.
+Why, no now?
+
+First Murderer:
+The objects friends on his choice,
+Has boys but an fellow for ever statues it so.
+
+PAULINA:
+Master, sir, I never this mother.
+
+HENRY BOLINGBROKE:
+Harry?
+
+MERCUTIO:
+The more should is there is my sons sister
+We hugb'd one holy brought but it you silver as he
+You have no even stay. I must not but
+Unstrictions, my laste, so swords heart in,
+I'll fonsoothing Break and Clarence and Both and shortly
+The book, as thoughts, because thou art bloody, my accident too.
+What news look, fall the two live, kind thy mind!
+O prince father and Full day! Talk lady!
+Worthy did at Warwick, adieu?
+Ah, father; thou art blest; thou art not noble but fast free
+That Henry's death, father, would be makes place
+Than makes his courteous cry shall woman,
+His this gates' children, if thou art do wear
+Out of thy rage, it re&n King Richard richard,
+Thou knew the ruing king day of death,
+I careful peril signs in an our father's whether.
+
+TYRREL:
+Shall I tell the man, and thou be many dispure
+With silvier letters the leave infantiff,
+To to diging, whose doth commission,
+And standing on Henry's fray forward's tapity.
+Your honours we heart is it to the fearful oracle:
+Signifil me palace for Richard?
+
+CLIFFORD:
+You have on Sicilia.
+
+KING HENRY VI:
+Well, will not now, let me love your hows.
+
+KING RICHARD III:
+I see the world of King Henry, Bolingbroke's love,
+And I'll Play'd you have it for your lordship?
+
+CLARENCE:
+At hath been to hardly Hereford's let them the two
+Unless and run earth ever to stand with his fast:
+Whom have for he is earthly and fought
+Which glory holy hand the fearful duke and cheeks,
+Even yet will bid me pardon stay the worlds,
+Persuade right give thee to lose our father
+Persuadieu, with our state; they we before I
+put us death duke, tears moans; and, playing
+From bless both for that true up, thus found,
+But not spoil to their highwards for my throne:
+Nor, in boy! Yet shall be so rescramed
+That they break be to will not. Why, away?
+Dost you blind with that? In God's vo
+
+Using normal distribution 
+10.788929 M parameters
+step 0: train loss 4.1934, val loss 4.1999
+step 500: train loss 1.7371, val loss 1.8896
+step 1000: train loss 1.3926, val loss 1.6122
+step 1500: train loss 1.2695, val loss 1.5249
+step 2000: train loss 1.1846, val loss 1.5066
+step 2500: train loss 1.1234, val loss 1.4914
+step 3000: train loss 1.0664, val loss 1.4799
+step 3500: train loss 1.0140, val loss 1.5021
+step 4000: train loss 0.9566, val loss 1.5259
+step 4500: train loss 0.9022, val loss 1.5486
+step 4999: train loss 0.8476, val loss 1.5743
+
+O, Gentleman, that I must not have,
+But as to frights, they can would perjury,
+Forthward we are decrement to destroy.
+Nay, good my good lords, this after is now:
+The assault at once may quickly,
+But we have join'd the enemy to a journal tender
+By one Times next with our friendings.
+
+Lurderer:
+So well, bring down by this commandant friends.
+
+Lord Mayor:
+Let us in her not only in the ghost,
+By my golden edge in hersity
+Against her as talk'd, hom dever'd heart
+To with wich my fings elder,
+To pratize yourself to't.
+
+First Messenger:
+So for the commonweally!
+
+ANTIGONUS:
+Whither? will he be?
+
+LEONTES:
+Good news; and out on't perform increase of a
+gpeal, a quick up in a bounto a common'st, and
+even his brother, and there was my father in France
+about a bearing.
+
+Gentleman:
+Have you assist me?
+
+LUCIO:
+I then, then troublow themselves daughter dies.
+
+DUKE Villain,
+You are a thousand of things blood upon. The
+motice of any matesty with
+the law world of yourself in a death. Let you
+lack alog, give me leader found the people. A
+re you might part so kindow your solderer, as
+new but either cots?
+
+VOLUMNIA:
+Dispirit, sir;--
+
+MERCUTIO:
+Will't
+please your baw tongue, and beyou smelt?
+
+MENENIUS:
+Go, be counter, fear not.
+
+CORIOLANUS:
+And but I see you, see your dusicion most away. What
+say, my valouo.
+
+VIRGILIUS:
+That thought I have.
+
+Volsce:
+Fool, o, Most knowleck, both sir!
+
+CORIOLANUS:
+You had!
+
+MENENIUS:
+The kemit to do't.
+
+CORIOLANUS:
+And to see you on the petice o' the marking? ay, that
+boy, Marcius; They are a Marcius, a baparisher
+too the fataWe: had I, for it bounts, Mecusio,
+opinione's trickment. They are a prosperoof dout to
+come fled your father, in your own parts, pleasant, but to
+plead
+their was your best of them; and being these duke
+that nothink so much before grim, so part not, thinkling you have to
+good father Messenger hath been recessed in my
+misfortunation.
+
+ESCALUS:
+What, because hath indeed of this as in Vienna, in woreson, if
+he had not but heins. You have, you have
+lifeded my brother to than you have in France,
+if he would have fit been our foes worse.
+
+ELBOW:
+Come you come, come a baAster for our soltier; his
+affairs we to have we have found of your eyes, Miadam we carry
+your faith way with her the cusquom of her scences cap, you
+offer the design present of you the lord's last
+heirst in their bitter; yet tonious yourself sufferer
+setticoans, who 'the general to any provance of him
+fot our thief; and of so bade I proke sire
+commend him shall court as from thy country. Let him leave me but
+the father to play p a move and twigsit him a man; and
+for turn couples us all do the object again and
+with the danger: another can bring the
+seek the same, there answer my friend.
+
+Volscian:
+I am gentlement duknown, of this afternoon: I am would I
+bestroy'd the best thank myself and profits him
+thou thtoughts; but wert to be obsel, my stermicius and
+folly fork out the callongeth, I pressite
+that let no have but so much soath to another.
+
+GREMIO:
+I should tell the present that you do, this sweet
+single me master, to be thus is to sit well in your
+good country, if the time mayor ends direct to
+again us: a furning, of those robes in my rases
+enventer thing, I am as a can senaton to be fought in
+her side.
+
+Roman:
+And all dgark 'Alas, let him no man, may be sin
+him.
+
+DUKE VINCENTIO:
+Go, go, sir; for which help talk
+from some blood, I am sorrow; that you respected
+aside; here are so, secret both!
+
+Chop Gentleman:
+The gods advise them, account my follow I
+have occaption with me, and many all lies in her
+appearand her disportuous in the Dashman tie and my
+most greet honour executed; and I therefore none after
+that Loward the salt senator, which she has and wash mird of
+be Pauline. Then Marcius was never cat up with quired,
+muched a mother to in put of them; being they should break as
+fight; and I being now much ruing form a commandment, of
+glory on his thanbush, when indeed his secreature
+of a foot and a troint to the pieces. Therefore part was
+your countryment in the sometime all to be stone
+known touches him, get you at the causes of stain that
+hat I would you prockback, and that the desire is not
+most rough it the fire, to cry your pleasures and
+cannot remember to that every
+say on changing 'em. See, do you at one doubt you,
+to make a fountagry!
+
+Clown:
+Proclaim you how he's off function.
+
+DUKE VINCENTIO:
+And thou gave no jewell tribune to some crown,
+what can we burn traitors friends the mind. But whose news
+now Claudio? 'silent your world ere with over-ripence
+drawes through from the old man of judge, to be a
+very gentleworth the poor Juliet is addantly child.
+
+JULIET:
+O Isabel, I dare be venuried of my life, sir, I
+ll you for it art offends or then any it;
+Whilst you are youngry, and I am notch'd for to provide?
+
+DUCHESS OF YORK:
+Seeing there durst not in none.
+
+DUKE  OF YORK:
+Unless the lady remains aside the regal
+Of Rome request, starsands all to noble Duke;
+Young Prosper that he hath done the Caustom.
+
+ESCALUS:
+'
+
+
+10.788929 M parameters
+step 0: train loss 4.2117, val loss 4.2115
+step 500: train loss 1.7502, val loss 1.8871
+step 1000: train loss 1.3994, val loss 1.6162
+step 1500: train loss 1.2686, val loss 1.5307
+step 2000: train loss 1.1933, val loss 1.4988
+step 2500: train loss 1.1300, val loss 1.4977
+step 3000: train loss 1.0756, val loss 1.4976
+step 3500: train loss 1.0219, val loss 1.4934
+step 4000: train loss 0.9679, val loss 1.5228
+step 4500: train loss 0.9185, val loss 1.5476
+step 4999: train loss 0.8594, val loss 1.5807
+
+At his subject, as prints set at haste
+It speak not how 'lave cup to-night.' 
+
+CAMILLO:
+Look in fortunes' marry;
+I cannot yield betide a in.
+
+Shepherd:
+
+Clown:
+No man die, there's the meter.
+
+Clown:
+'She's not a teem there tiding nor one.
+
+CAPULET:
+Nay, never but so; I'll not show.
+
+ANGELO:
+O joy, that heaven shold such dishonour to a
+Veril that trust you say lend it both drows one arrage
+our liking.
+
+LUCIO:
+No, that was cracked by one in't.
+
+SICINIUS:
+Let's hear any to the hangman: and fare he
+ne't, as I change to some. and you old sooner,
+Who, as any uncorpet good men to well,
+Must be prevailed to excuse my ill,
+And with afterwards: therefore I met Marcius
+That will we march you trust.
+
+SICINIUS:
+I'll count you to do, then, as that I had he
+at the right.
+
+MENENIUS:
+Go you take most: and mock unstands are then almost:
+Thrice will the people's wretchest friends again,
+Your grave? I'll make a leave comfort that woman
+Suffully such all exaction.
+
+Messenger:
+These peoples, but why stands for 'em?'
+
+MENENIUS:
+Ay, some army good science, good Meneniush.
+
+BRUTUS:
+Not as I talk.
+
+CORIOLANUS:
+Has palel'd on my sister.
+
+SICINIUS:
+I am as sworn afied by the porage and tears.
+
+MultiHeadAttention no dropouts in head layer
+10.795841 M parameters
+step 0: train loss 4.3333, val loss 4.3214
+step 500: train loss 1.6547, val loss 1.8132
+step 1000: train loss 1.2865, val loss 1.5561
+step 1500: train loss 1.1239, val loss 1.5385
+step 2000: train loss 0.9721, val loss 1.6022
+step 2500: train loss 0.8054, val loss 1.7511
+step 3000: train loss 0.6254, val loss 1.9475
+step 3500: train loss 0.4722, val loss 2.1539
+step 4000: train loss 0.3520, val loss 2.4342
+step 4500: train loss 0.2702, val loss 2.6705
+step 4999: train loss 0.2154, val loss 2.9267
+
+Whrong with this good I Saw of our loving masters, 
+How grieved in my tongue drop into the bosom!      
+And arms-wonders, canst thou nove of the lady?     
+3 KING HENRY VI
+
+WARWICK:
+Why, then 'o; quarrel his face is famous;
+That none of Norfolk, Lancaster and Derby:
+Stand lent is so thousand nose disconsequence.     
+That you, my deed! my lord; look it is:
+That so much not so yet is set under!
+If she did not speak a word beguile in
+Whose words her reby's kindness, who to reign them?
+
+BRUTUS:
+Master one can hear his law.
+
+First Senator:
+Farewell, you heart's path and false.
+
+Second Senator:
+Your abjects 'twould you be found.
+
+First Citizen:
+You shall have meknock your father, sir.
+
+Second Citizen:
+I pray you, but unless you have heard your life
+your embrace. For him I protest; and it cry 'pleaded,'--
+You ungently would have done were strongly; your
+neither would nor let me service
+it, look not to be their full of us them.
+
+Boy:
+The hath of it mad; and will come to me under good
+by throng to play and to me will now them a face of the
+law to the norrow wenches? Your blood bawd?
+
+Third Gentleman:
+What, brother of Plashy son?
+
+Second Gentleman:
+Where then the duke we thinly safer the duke.
+
+HASTINGS:
+Romen, uncle; we are under those signorage:
+The sad to our grieves both weapons leave,
+Droll'd the war hath promised Tybalt sleep,
+And the more at our coats of laws;
+And every thing is our strength,
+The Lord Clarence dead, we shall shield at:
+The Earl of Warwick still hath Bolingbroke,
+And all their minus do mine:
+God shall men, and trunchead then be sobrow'd?
+Was't none i' God's name, where you were so?
+
+STANLEY:
+Yet, my good, my lord, as I have sent by them;
+Let namely a sudden stall a fearfol a woman,
+That it may see my son open it.
+Tybalt, God's exced, the enterprest canies.
+For such a vantage of word will I speak
+But that Anna thy though begin to that vengeance
+Show hath done, the fault is padler for the poor,
+For the both of Clarence dead; and I fear not all,
+And line under your cross-on me?
+If we be sworn that can kingly say as
+With the discoful bed; which we shall know
+As your should entertain so rice,
+Painted with hasting your infection
+May show on the report of his hate.
+
+CLARENCE:
+In consent in all his prophetents,
+And lived his new breathest to see him now.
+Buth he, now I small this grown idling near:
+Clarence, but learness will gaze on me,
+And over unage of a favour. Thou art tall,
+From thee at me thy hand, O, thou hast woo;
+For thou bear'st not speak'd within to six's rume,
+That Juliet. Dost thou stand well believe thee more
+By thinking us and unknown thee: but thou art
+A noble fellows is nothing.
+
+CAMILLO:
+Yea, and do good messety of three admiral;
+So do you not, I am orieve you, or else.
+I have advish'd me from dead to live like and youth,
+And I will take in your nought afection.
+
+QUEEN:
+But if that straight it must be, it sound my due thing
+Do seem that lodging Partion of the rest,
+Too did I will consul: let it clust ge be feed
+I'll mean garish to thee, Benelike,
+And was removed of change, when I saw my life,
+Who gave way to speak and match the news ill swear
+I come to the war and be half all,
+That will then be so to banish for our covert sea
+More than we done. Come all dispatch your lieges;
+Your execution to the musty serve
+Gloucester, if the death of your branches' looks.
+But let use him in; let it be resolved
+A courtion so unconstant witle,
+For when the boar do well upon the prolongest
+In murderity that I have done e'er
+very life; and my let one life the idle
+Rome in; and this humble we let us hither.
+Farewell, good Corioli.
+
+CORIOLANUS:
+Though there they say, your king,
+King nothing I deep to take the subject.
+
+Second Keeper:
+Ay, the tortures here is thy name and remains;
+There is no such vaint being king and men cannot:
+Be he, there are must I unurselved all:
+I will not executione dayGCondal.
+
+KING HENRY VI:
+Now, but that do I love the town I love you all
+Whereto be new shall her end all in onace
+I'll not be lend for your country's law.
+Methinks I pray heard you, and devise me form.
+
+YORK:
+'Tis more pardon me that I will show make thee
+In this subject as thy true heart wrath.
+Thou shalt lose view to thy live?
+
+GLOUCESTER:
+Why, madam, I must see thee make a face!
+
+HASTINGS:
+I thank you, gentle Tower. Phece, go, God's nurse,
+Put up it out the Gaunt and with 'Where tell me,
+For I may name to it is one day.
+
+HASTINGS:
+I tell thee, many faith, I am your hand.
+
+RICHARD:
+In God's name I seal to the crown against him:
+Uncle Clifford, bear him his coming;
+But he is nothing lessome in parliament;
+But exacting it is not all i' the larsh unhappying now.
+What mean thou have won and made the leave?
+You talk all the last, and merry, you sir:
+I now shall warrant here I saw my consent.
+
+TYBALT:
+If and I be call'd Romeo.
+
+ROMEO:
+Farewell, thou well not a Romeo, sir, and dieCy ourself.
+
+MERCUTIO:
+Come you to the city from the worst of that world,
+To thus yourself and you brooked from your eyes;
+
+MultiHeadAttention encapsulated with dropout
+10.795841 M parameters
+step 0: train loss 4.2663, val loss 4.2604
+step 500: train loss 1.7550, val loss 1.9038
+step 1000: train loss 1.4021, val loss 1.6248
+step 1500: train loss 1.2823, val loss 1.5405
+step 2000: train loss 1.1902, val loss 1.4987
+step 2500: train loss 1.1302, val loss 1.4933
+step 3000: train loss 1.0756, val loss 1.4993
+step 3500: train loss 1.0202, val loss 1.4941
+step 4000: train loss 0.9689, val loss 1.5266
+step 4500: train loss 0.9136, val loss 1.5390
+step 4999: train loss 0.8600, val loss 1.5719
+
+We must be she vatral is away'd in the eng
+Where substant with a great instrument. Onduct o' the preserving
+What he may, embut wears unto your hanging peace!
+
+KING RICHARD III:
+Pardons pale on you: in the thoughtsom of itseel,
+Your have too experient to eternies?
+Why ever I intoo cry men!
+Lest gracious not I know honest my country.
+O here conscience!
+
+Second Watchman:
+Amen.
+
+Messenger:
+Ay, and boy! and, alack for I will.
+
+First Watchman:
+What noise is here's good to Anne.
+
+TRANIO:
+I was ris too this a choler, now,
+The same and wish, for God still, if he use
+Hath from his soul.
+
+NORTHUMBERLAND:
+No, by his ancient kind holy brother,
+Not his countenance.
+
+HENRY BOLINGBROKE:
+Whither amen?
+
+DUKE OF AUMERLE:
+Perusue most both, I know.
+
+DUCHESS OF YORK:
+I know, hark!
+
+HERY BOLINGBOY:
+Vaught,
+Ever, whither one, if my bood mind to should us
+Call him to your graces.
+
+DUKE OF YORK:
+No: Lords, good by, I speak.
+
+HENRY BOLINGBROKE:
+Ho, farewell.
+
+BUSHY:
+Your highness, lead up in the night
+Of the napker, unless entreat in the gat.
+
+RICHARD:
+Even in the captain of his guester.
+A poor Surrey gain.
+
+HENRY BOLINGBROKE:
+My gracious lord,
+I have enjoy'd a friend title from this.
+
+Mess'd Tybalt:
+I give give a since of mine age.
+
+RICHOPS:
+Setds, the trumpey of your master's voices.
+But forsworn, being then one so name to fight,
+Qo help to fall out ancident stain,
+Fridan'd grief is, and in twelve use-fall'd and shrulen
+Thy body will shake at Show and being her uncled.
+I was king; 'twas some more measure, cordial
+To flatter and defending: heaven his lark and not first
+Against the end for that way the table.
+
+JULIET:
+Go, go I hope.
+
+JULIET:
+What ever man began to take her speak.
+
+Nurse:
+Marry, you have vileaned with said her quakedom
+And neither to lay the goss; that he wipest is
+To eagreet opprison thee. How fair made thee in.
+
+ROMEO:
+I would your remembrance for us.
+
+LBOW:
+Accursed to your good guard
+And, have the rough of they would have some:
+This, were the reverse has yet good,
+The want is a full bud barlial; and prefated heaven
+As haunts an hereford how comes this morning.
+
+ISABELLA:
+Upon earnest, good I oather withal,
+What pointed have, the best to extremit our hand,
+Till he people is your father: when he was
+Follower in the garden: I am loved on't,
+When I have fore a holy pines struck'd for the water.
+Is now even she'll yet here by senses,
+I'll appresel 'em with conclubs in killl' behavior night
+Which is counterencils, not, she disad in tears,
+Or, by her known all, or expecting that measure
+Here; here in titles every times, utwere
+Might the book to you. But, I company, as it is.
+
+ESCALUS:
+We was but up: when they bear it,
+As I say, then is adove as passenged: ony it,
+She may nay 'tis judge it should live:
+But she is no like mere in that liver
+But since enemy or purich crede.
+
+LUCIO:
+O thought I would die to-morrow.
+
+ESCALUS:
+I will hang more pleasing: I do prontent
+send me 't. Answer a bawd wise.
+
+POMPEY:
+Come, sir, you are as you, sir: you shurp in a father, in 's house all, sir; the
+saint the public-lacconce will I pray out me on; you are
+peTo quarlet stay your old. And gentle mayor; I'll to
+the rood and a coward far off the next hath create;
+there's a best; and the rich state on o'
+you; virgin, I'll to your highness: discolling by your
+first: reason with he silent the banish's mot
+report of a completention.
+
+CORIOLANUS:
+O, for I came.
+
+CORIOLANUS:
+My voice, I had not think; you need there is
+Your remeditie and your concreaties unmies.
+This senseleso pass Iversaly.
+O tricle, goodly birthy confirms!
+
+VOLUMNIA:
+Withing him.
+
+MENENIUS:
+I say, hear me speak.
+
+COMINIUS:
+They say she say understar he he hath
+Romed; cast their no house fortnous repeorable
+And have leded into for Coriola fals
+But with me to't:' lay yea, pay, so consider one
+And 'bod: I deny the accident
+A brave to handle, and affections in his peace
+To a traitor's remedy: alast tread boy,
+Have received, sesttimation life and it:
+And I smiled well, my young sovereigntly
+Jove, give might you not stook suse me,
+And so I istand with mighty of love.
+
+Gardeness:
+Tell me, I have done will die then.
+
+CAMILLO:
+No mercy more that a little which gave is
+You'll go win pig's ash and recoveyey in
+Fromost off your fancy.
+
+ANTIGONUS:
+Ha! We cannot avoide
+Weep.
+
+Second Officer:
+Take us so.
+
+CAMILLIUS:
+They say; every we shall.
+
+CARULINA:
+I have sat said, I swounded hold it.
+
+FLORIZES:
+Make haste, your horseso of mile
+And clambassing her exercisers. But I saw
+If ever pity fair may pass'd us;
+He shall best endern you shriek, ere you, tI
+take and for rather to take youp the Tarpeian.
+
+TYBALT:
+Pity, a horse;
+I shall beate my body traitor. More in to the crown,
+Or morsgall is posterous most itsed,
+To seek our file. Grent is enemy,
+We cannot shake ready on him.
+
+TYBALT:
+Vurgi a cavil of those villains;
+The gallains naturous womanishs of this world:
+Methinks, so somethinking hours, because that you
+Shall blasting hell in frustication
+For Claudio's maid in that is fault but of;
+But with
